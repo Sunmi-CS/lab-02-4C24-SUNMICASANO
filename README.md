@@ -1,8 +1,5 @@
 # lab-02-4C24-2024-SUNMICASANOSUAREZ 
-
-Descripción breve del proyecto
-
-## Getting Started
-
-Instrucciones para empezar el proyecto
+# Mi Proyecto
+Este es mi README local.
+Este es el contenido que estaba en GitHub remoto.
 
